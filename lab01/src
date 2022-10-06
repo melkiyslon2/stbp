@@ -1,0 +1,6 @@
+import hashlib
+
+hash_obj = hashlib.sha1(b'Dmitriy')
+hex_dig = hash_obj.hexdigest()
+
+print(hex_dig)
