@@ -1,1 +1,1 @@
-# STBP labs Naumenko Dmitriy KN-922a
+# STBP labs Vodolazskyi Mykola KN-M922v
